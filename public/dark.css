@@ -1,0 +1,13 @@
+body {
+  color: aliceblue;
+  background-color: #192a56;
+}
+
+body a {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+body a:hover {
+  color: yellow;
+}
